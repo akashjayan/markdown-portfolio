@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+<html>
+ <head>
+   </head>
+  <body>
+    <ol>
+      <li>coffee</li>
+      <li>tea</li>
+    </ol>
+  </body>
+  </html>
