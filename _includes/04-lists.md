@@ -1,10 +1,3 @@
-<html>
- <head>
-   </head>
-  <body>
-    <ol>
-      <li>*</li>
-      <li>*</li>
-    </ol>
-  </body>
-  </html>
+* List
+* Ordered
+* Unodered
