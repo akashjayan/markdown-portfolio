@@ -3,8 +3,8 @@
    </head>
   <body>
     <ol>
-      <li>coffee</li>
-      <li>tea</li>
+      <li>*</li>
+      <li>*</li>
     </ol>
   </body>
   </html>
